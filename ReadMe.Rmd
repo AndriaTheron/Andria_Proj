@@ -1,0 +1,88 @@
+---
+title: "ReadMe"
+author: "Andria Theron"
+date: "September 29, 2017"
+output: html_document
+---
+
+
+For gitignore:
+
+.Rproj.user
+.Rhistory
+.RData
+.RUserdata
+Data/
+
+NB Mathpix
+
+Sumatra
+
+#Aim
+
+The aim of this paper is to simulate recommendations made on television programs by stock brokers. I am not enirely sure how to approach this project, but I think I am going to try to construct a portfolio that is equally weighted. My concern is that I will need to buy stocks everyday and work out the returns with regards to the present day.
+
+#Techniques used
+
+Practical 5
+
+#Data
+
+#Packages used
+
+#Miscellaneous notes
+
+***
+
+#Paper
+
+Every piece of code that you use in your paper must be here first
+
+Do this super detailed
+
+#Introduction
+
+Programs for portfolios:
+1. BusinessDayTV, Stock Watch Picks (South Africa)
+2. CNBC, Fast Money (USA)
+3. 
+
+I chose these programs, because they include stock recommendations made by a public forum
+
+#Methodology
+
+List code
+
+```{r}
+list.files("Code", full.names = TRUE)
+source(Code)
+```
+
+```{r initialize}
+
+```
+
+```{r Data Import}
+
+```
+
+```{r Returns create}
+
+
+
+```
+
+```{r}
+
+```
+
+
+
+
+
+
+#Literature review
+
+#Results
+
+#Conclusion
